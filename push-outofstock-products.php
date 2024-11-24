@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: Push Out-of-Stock Products
- * Plugin URI:  https://example.com
+ * Plugin URI:  https://github.com/Hamza-crypto/push-outofstock-to-end.git
  * Description: Automatically pushes out-of-stock WooCommerce products to the end of product lists in WooCommerce.
  * Version:     1.0.0
  * Author:      Hamza Siddique
