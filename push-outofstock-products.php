@@ -8,7 +8,6 @@
  * Author URI:  https://www.upwork.com/freelancers/~01d452dc67bce01a15
  * License:     GPL-2.0+
  * Text Domain: push-outofstock-products
- * Domain Path: /languages
  */
 
 // Exit if accessed directly.
