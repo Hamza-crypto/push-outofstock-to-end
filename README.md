@@ -1,12 +1,21 @@
 === Push Out-of-Stock Products ===
+
 Contributors: Hamza-crypto
+
 Donate link: https://www.paypal.com/donate?hosted_button_id=your_button_id
+
 Tags: WooCommerce, out-of-stock, product sorting, WooCommerce customization
+
 Requires at least: 5.0
+
 Tested up to: 6.7.1
+
 Stable tag: 1.0.0
+
 Requires PHP: 7.4
+
 License: GPLv2 or later
+
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
 Push out-of-stock products to the end of product listings in WooCommerce.
@@ -41,8 +50,6 @@ No, the plugin only modifies the order of the product listings, and no content i
 = Can I control the product sorting order? =
 Currently, the plugin sorts products based on their stock status, with out-of-stock products placed at the bottom. Future versions may include more advanced sorting options.
 
-== Screenshots ==
-
 1. **Shop Page without Sorted Products**  
    ![Shop Page Screenshot](assets/img/before.jpg)  
    The product list with out-of-stock items in the middle.
@@ -50,9 +57,3 @@ Currently, the plugin sorts products based on their stock status, with out-of-st
 2. **Product Category Page with Sorted Products**  
    ![Shop Page Screenshot](assets/img/after.jpg)  
    Out-of-stock products are placed at the end of the list.
-
-== Changelog ==
-
-= 1.0.0 =
-
-- Initial release. Push out-of-stock products to the end of WooCommerce product listings.
